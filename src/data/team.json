@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Umar Nurmagomedov",
+    "img": "/assets/khabib_img/umar-foto.jpg",
+    "desc": "Lahir 3 Januari 1996, Umar adalah sepupu Khabib Nurmagomedov dan salah satu petarung paling menjanjikan di divisi bantamweight (61 kg) UFC. Ia dikenal dengan gaya bertarung yang seimbang, grappling ala Dagestan yang kuat dipadukan dengan tendangan dan striking yang tajam. Rekor profesional 18 menang, 1 kalah, 0 seri"
+  },
+  {
+    "name": "Movsar Evloev",
+    "img": "/assets/khabib_img/MovsarEvloev-foto.jpg",
+    "desc": "Lahir 11 Februari 1994, Movsar Evloev adalah petarung MMA asal Rusia yang berkompetisi di divisi featherweight (66 kg) UFC. Ia dikenal memiliki gaya bertarung yang lengkap dengan kemampuan grappling yang kuat, striking yang teknis, serta stamina yang konsisten sepanjang pertarungan. Rekor profesional 19 menang, 0 kalah, 0 seri"
+  },
+  {
+    "name": "Islam Makhachev",
+    "img": "/assets/khabib_img/makachev-foto.png",
+    "desc": "Lahir pada 27 Oktober 1991, Islam Makhachev adalah juara bertahan divisi lightweight (70 kg) UFC dan murid sekaligus sahabat dekat Khabib. Ia dikenal dengan dominan grappling, kontrol ground, dan submission yang mematikan, serta striking yang semakin berkembang. Islam dianggap penerus Khabib dalam mendominasi divisi lightweight. Rekor profesional 27 menang, 1 kalah, 0 seri"
+  },
+  {
+    "name": "Magomed Ankalaev",
+    "img": "/assets/khabib_img/ankalaev-foto.png",
+    "desc": "Lahir 2 Juni 1992, Magomed bertarung di divisi light heavyweight (93 kg) UFC dan dikenal sebagai striker berbahaya dengan pukulan yang keras dan akurat. Ia juga memiliki kemampuan grappling yang solid, membuatnya salah satu petarung paling lengkap di kelasnya. Rekor profesional 21 menang, 1 kalah, 1 seri, + 1 No Contest (NC)"
+  }
+]
